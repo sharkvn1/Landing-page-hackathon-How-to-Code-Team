@@ -1,2 +1,7 @@
 # Landing-page-hackathon-How-to-Code--Team
-A website design project for landingpagehackathon competition
+
+-- Git version 8.0 --
+
+-- How to code -- Code mọi nơi --
+
+@Copyright: Đức Nobi !!
